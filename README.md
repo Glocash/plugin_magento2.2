@@ -6,7 +6,7 @@ This extension is for Magento 2.2.x
 
 #####Install
 
-1. Upload module content to the path below magento2 :  /magento2/app/code/
+1. Upload module content to the path below magento :  /magento/app/code/
 
 2. In command line, navigate to the magento2 root folder
 Enter the following commands:
